@@ -1,0 +1,4 @@
+{
+  "_doc": "YouTube videos shown on the Knowledge Centre. Each entry: { id (YouTube video ID), titleEn, titleHi, isPublished, displayOrder }. Embeds use youtube-nocookie.com. Videos are embedded ONLY from URLs verified by the owner. No entries until verified.",
+  "videos": []
+}

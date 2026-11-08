@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "Amit Kumar Shukla",
+    "monogram": "AKS",
+    "tagline": {
+      "en": "Protecting What Matters Most.",
+      "hi": "आपकी जरूरत, आपकी सुरक्षा — सही बीमा जानकारी और मार्गदर्शन के साथ।"
+    }
+  },
+  "serviceArea": {
+    "primary": ["Amethi", "Sultanpur"],
+    "region": "Across Uttar Pradesh"
+  },
+  "experience": {
+    "years": 15,
+    "verified": false
+  },
+  "photo": {
+    "src": "/photos/advisor-photo-PLACEHOLDER.svg",
+    "placeholder": true
+  },
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null,
+    "address": null,
+    "verified": false
+  },
+  "insuranceCategories": [],
+  "_categoriesDoc": "Insurance category names are added here ONLY after owner verification. UI shows an empty state while this list is empty.",
+  "disclaimer": "This website is a portfolio and information platform. Regulatory designation and insurer authorisations are being verified and will be published only after confirmation."
+}

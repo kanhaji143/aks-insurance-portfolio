@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand palette */
+  --color-navy: #153b65;
+  --color-royal: #2876b9;
+  --color-soft-white: #f5f8fc;
+  --color-gold: #c7a45c;
+
+  /* Typography stacks */
+  --font-heading:
+    "Plus Jakarta Sans", "Segoe UI", system-ui, sans-serif;
+  --font-body:
+    "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-hindi:
+    "Noto Sans Devanagari", "Inter", system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--color-soft-white);
+  color: var(--color-navy);
+  font-family: var(--font-body);
+}
+
+/* Devanagari text switches to the Hindi typeface automatically */
+:lang(hi),
+.font-hindi {
+  font-family: var(--font-hindi);
+}
+
+/* Smooth anchor scrolling under the sticky header */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Anchored sections stop below the sticky header */
+section[id] {
+  scroll-margin-top: 5rem;
+}
+
+/* Visible, gold keyboard focus for accessibility */
+:focus-visible {
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
+}

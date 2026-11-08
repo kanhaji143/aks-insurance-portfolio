@@ -1,0 +1,160 @@
+{
+  "language": {
+    "label": "English",
+    "switchTo": "हिंदी",
+    "switchAria": "Switch website language to Hindi"
+  },
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "individual": "Individual & Family",
+    "corporate": "Corporate",
+    "categories": "Categories",
+    "companies": "Companies",
+    "plans": "Insurance Plans",
+    "about": "About",
+    "services": "Services",
+    "calculators": "Calculators",
+    "videos": "Knowledge Centre",
+    "faq": "FAQs",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Amethi · Sultanpur · Across Uttar Pradesh",
+    "otherTagline": "आपकी जरूरत, आपकी सुरक्षा — सही बीमा जानकारी और मार्गदर्शन के साथ।",
+    "experienceLine": "15+ years of insurance experience — subject to owner verification",
+    "ctaPrimary": "Contact & Enquiry",
+    "ctaSecondary": "Official Calculators",
+    "photoAlt": "Advisor photo placeholder — to be replaced with an approved photograph"
+  },
+  "experience": {
+    "heading": "Experience & Service Area",
+    "lead": "A specialist in insurance advisory for individuals, families and businesses across the region.",
+    "yearsLabel": "Years of Experience",
+    "pendingTag": "Subject to Verification",
+    "areasHeading": "Areas Served",
+    "regionLabel": "Across Uttar Pradesh"
+  },
+  "individual": {
+    "heading": "Individual & Family Insurance",
+    "body": "Guidance-first insurance advisory for individuals and families — helping you understand your options, the documentation involved and renewal timelines. Product and plan details will be published only after verification.",
+    "note": "Plan details pending owner verification."
+  },
+  "corporate": {
+    "heading": "Corporate Insurance Solutions",
+    "body": "Advisory support for corporate and group insurance requirements — helping organisations review their coverage needs and arrange the right information before decisions. Engagement details will be published only after verification.",
+    "note": "Offering details pending owner verification."
+  },
+  "categories": {
+    "heading": "Insurance Categories",
+    "note": "Only verified insurance categories are displayed on this website.",
+    "empty": "Insurance categories will be listed here after they are verified by the owner. No insurer names or product lists are published until confirmed."
+  },
+  "companies": {
+    "heading": "Insurance Companies",
+    "note": "Only verified and published insurance companies are listed here.",
+    "loading": "Loading companies…",
+    "error": "Could not load insurance companies. Please check your connection and try again.",
+    "retry": "Try again",
+    "empty": "No verified companies yet. Companies will appear here after they are verified and published by the owner.",
+    "websiteLabel": "Official website"
+  },
+  "plans": {
+    "heading": "Insurance Plans",
+    "note": "Only verified and published plans are listed here. Always confirm final details on the official insurer website.",
+    "loading": "Loading plans…",
+    "error": "Could not load insurance plans. Please check your connection and try again.",
+    "retry": "Try again",
+    "empty": "No verified plans yet. Plans will appear here after they are verified and published by the owner.",
+    "benefitsLabel": "Key benefits",
+    "eligibilityLabel": "Eligibility",
+    "uinLabel": "UIN",
+    "brochureLabel": "Brochure",
+    "quoteLabel": "Official quote"
+  },
+  "about": {
+    "heading": "About Amit Kumar Shukla",
+    "intro": "Insurance advisor based in the Amethi–Sultanpur region of Uttar Pradesh.",
+    "bioPlaceholder": "Detailed profile will be published here — including experience summary and areas of focus — after the owner confirms the content.",
+    "pendingTag": "Profile Pending Verification"
+  },
+  "services": {
+    "heading": "Services & Customer Assistance",
+    "note": "The list below is indicative and pending owner confirmation.",
+    "items": [
+      "Assistance with new policy enquiries",
+      "Renewal reminders and guidance",
+      "Support with documentation",
+      "Claim assistance guidance (no outcome promises)",
+      "Information on official insurer tools",
+      "Service across Amethi, Sultanpur & UP"
+    ]
+  },
+  "calculators": {
+    "heading": "Official Insurance Calculators & Quote Links",
+    "note": "These are official links of the respective insurance companies. This website does not calculate premiums itself.",
+    "loading": "Loading calculator links…",
+    "error": "Could not load calculator links. Please check your connection and try again.",
+    "retry": "Try again",
+    "empty": "No verified calculator links yet. Official links will appear here only after they are verified and configured."
+  },
+  "videos": {
+    "heading": "Knowledge Centre",
+    "note": "Educational videos are embedded only after the source URLs are verified.",
+    "loading": "Loading videos…",
+    "error": "Could not load videos. Please check your connection and try again.",
+    "retry": "Try again",
+    "empty": "No verified videos yet. Educational videos will appear here after their YouTube links are confirmed."
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Is this an insurance company website?",
+        "a": "No. This is the personal portfolio of an insurance advisor. Policies are always issued by the respective insurance companies."
+      },
+      {
+        "q": "Does this website show premium calculations?",
+        "a": "No. The website only links to official calculators and quote portals of insurance companies. No premium is calculated or displayed here."
+      },
+      {
+        "q": "When will the insurance categories be listed?",
+        "a": "Only verified categories are published. The list is being confirmed with the owner and will appear after verification."
+      },
+      {
+        "q": "How can I get personalized assistance?",
+        "a": "Contact details are being verified and will be published on the Contact section. Until then, no enquiry channel is active."
+      },
+      {
+        "q": "Which areas are served?",
+        "a": "Amethi, Sultanpur and across Uttar Pradesh."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact / Enquiry",
+    "intro": "Send an enquiry about insurance requirements. The enquiry system is prepared but will be activated only after the backend is approved.",
+    "pendingContact": "Phone and WhatsApp details will be published here after verification.",
+    "callLabel": "Call Now",
+    "whatsappLabel": "WhatsApp",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "message": "Your Requirement / Message",
+      "submit": "Send Enquiry",
+      "inactiveNote": "Online enquiry is not active yet. Nothing is sent or stored at this stage."
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contact": "Contact",
+    "legalLinks": [
+      { "label": "Terms of Use", "href": "#" },
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Disclosure", "href": "#" }
+    ],
+    "contactPending": "Contact details will be published after verification.",
+    "copyright": "Amit Kumar Shukla — Insurance Portfolio. All rights reserved."
+  }
+}

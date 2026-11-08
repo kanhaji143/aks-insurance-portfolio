@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="aks-logo-title">
+  <title id="aks-logo-title">AKS — Shield monogram</title>
+  <path
+    d="M32 3 57 11v21c0 14.5-10.5 22.8-25 29C17.5 54.8 7 46.5 7 32V11Z"
+    fill="#153B65"
+    stroke="#C7A45C"
+    stroke-width="3"
+    stroke-linejoin="round"
+  />
+  <text
+    x="33"
+    y="39"
+    text-anchor="middle"
+    font-family="'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif"
+    font-size="17"
+    font-weight="700"
+    letter-spacing="1.5"
+    fill="#F5F8FC"
+  >AKS</text>
+</svg>

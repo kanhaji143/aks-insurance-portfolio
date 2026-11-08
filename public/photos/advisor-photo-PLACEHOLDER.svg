@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" role="img" aria-labelledby="placeholder-title">
+  <title id="placeholder-title">Advisor photo placeholder</title>
+  <rect width="480" height="560" fill="#F5F8FC" />
+  <rect
+    x="12" y="12" width="456" height="536"
+    fill="none" stroke="#C7A45C" stroke-width="3" stroke-dasharray="12 10"
+    rx="12"
+  />
+  <!-- simple person silhouette -->
+  <circle cx="240" cy="215" r="78" fill="#2876B9" opacity="0.35" />
+  <path
+    d="M105 470c0-70 60-118 135-118s135 48 135 118v66H105Z"
+    fill="#2876B9"
+    opacity="0.35"
+  />
+  <text
+    x="240" y="520"
+    text-anchor="middle"
+    font-family="'Inter', 'Segoe UI', Arial, sans-serif"
+    font-size="20"
+    font-weight="600"
+    fill="#153B65"
+  >Advisor Photo (Placeholder)</text>
+</svg>

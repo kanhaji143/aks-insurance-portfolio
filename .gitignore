@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment and secrets
+.env
+.env.*
+*.local
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Test artifacts and local backups (not part of the application)
+test-screenshots/
+backups/
+emulator.firebase.json
+firestore.rules.test

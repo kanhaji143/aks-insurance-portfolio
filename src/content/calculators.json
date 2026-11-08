@@ -1,0 +1,4 @@
+{
+  "_doc": "Official insurance company calculator/quote links only. Each entry: { labelEn, labelHi, url, enabled, companyId? (future Firestore ref) }. Entries with enabled=false or missing URLs are hidden by the UI — no invented premiums, no simulated insurer APIs. No links are published until the owner verifies each one as official.",
+  "links": []
+}
