@@ -70,7 +70,14 @@
     "eligibilityLabel": "Eligibility",
     "uinLabel": "UIN",
     "brochureLabel": "Brochure",
-    "quoteLabel": "Official quote"
+    "quoteLabel": "Official quote",
+    "categories": {
+      "Life": "Life",
+      "Health": "Health",
+      "Motor": "Motor",
+      "Travel": "Travel",
+      "Other": "Other"
+    }
   },
   "about": {
     "heading": "About Amit Kumar Shukla",

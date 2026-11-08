@@ -89,8 +89,8 @@ export default function Plans() {
                       {name}
                     </h3>
                     {plan.category ? (
-                      <span className="rounded-full bg-soft-white px-2.5 py-0.5 text-xs font-semibold text-navy/70">
-                        {plan.category}
+                      <span className={`rounded-full bg-soft-white px-2.5 py-0.5 text-xs font-semibold text-navy/70 ${hindi}`}>
+                        {t.plans.categories[plan.category] ?? plan.category}
                       </span>
                     ) : null}
                   </div>

@@ -70,7 +70,14 @@
     "eligibilityLabel": "पात्रता",
     "uinLabel": "UIN",
     "brochureLabel": "ब्रोशर",
-    "quoteLabel": "आधिकारिक कोट"
+    "quoteLabel": "आधिकारिक कोट",
+    "categories": {
+      "Life": "जीवन बीमा",
+      "Health": "स्वास्थ्य बीमा",
+      "Motor": "मोटर बीमा",
+      "Travel": "यात्रा बीमा",
+      "Other": "अन्य"
+    }
   },
   "about": {
     "heading": "परिचय — अमित कुमार शुक्ल",

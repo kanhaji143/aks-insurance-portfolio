@@ -2,7 +2,7 @@ rules_version = '2';
 
 // ============================================================
 // Amit Kumar Shukla — Insurance Portfolio
-// Firestore Security Rules (READY — not yet deployed)
+// Firestore Security Rules — source-controlled configuration
 //
 // Design:
 //   - Public visitors: READ-ONLY on published AND verified content.
